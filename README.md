@@ -3,5 +3,5 @@
 </p>
 
 ## 
-## [Class Structure Of Game](https://meteahmetyakar.github.io/Tetris-GUI/)
+## [Javadoc](https://meteahmetyakar.github.io/Tetris-GUI/)
 
